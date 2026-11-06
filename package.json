@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Ly-Raksmey/devops-pipeline#readme",
+  "bugs": {
+    "url": "https://github.com/Ly-Raksmey/devops-pipeline/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ly-Raksmey/devops-pipeline.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": []
+}
